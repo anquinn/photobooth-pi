@@ -1,0 +1,8 @@
+# General
+.DS_Store
+.AppleDouble
+*.pyc
+
+# Repo Specific
+client_secrets.json
+service_creds.json
